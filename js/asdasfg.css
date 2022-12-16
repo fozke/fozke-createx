@@ -99,8 +99,6 @@ html, body {
   -webkit-text-fill-color: transparent;
 }
 
-.logo {}
-
 .heading {
   color: #1E212C;
 }
@@ -122,6 +120,8 @@ html, body {
 .heading--text-center {
   text-align: center;
 }
+
+.logo {}
 
 /* ============================== HEADER TOP ============================== */
 /* ============================== HEADER TOP ============================== */
